@@ -1,8 +1,7 @@
-Breve descrição do grupo
+# Projeto FSI
 
-* Turno: [LM]11
-* Grupo: 07
-* Alunos:
-    - Rui Brogueira Andrade up202007539
-    - João Tomás Marques Félix up202008867
-    - Guilherme Dias da Rocha Pereira up202007375
+Trabalho realizado por:
+
+ - [x] Guilherme Pereira
+ - [x] João Félix    
+ - [x] Rui Andrade
